@@ -8,3 +8,5 @@ game1:
     v1: A simple connected rooms system, practiciing the basics
     v2: A reorganisation of v1 and some cleanup of the generated text
 
+game2:
+    A from scratch recreation of the room system, practice, practice, practice

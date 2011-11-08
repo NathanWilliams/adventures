@@ -12,7 +12,8 @@ game2:
     A from scratch recreation of the room system, practice, practice, practice
 
 game3:
-    An inventory system
+    v1: An inventory system, not happy with the result though
+    v2: A new attempt at the inventory system from scratch
 
 
 (Yes, I realise at this point that the 'game' names don't make a lot of sense, but I am going to stick with it anyway!)
